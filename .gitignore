@@ -1,26 +1,2 @@
-<<<<<<< HEAD
 node_modules
 .env*
-=======
-# Dependencies
-node_modules/
-
-# Environment variables
-.env
-.env.local
-.env.*.local
-
-# Build output (TypeScript compiled files)
-dist/
-build/
-
-# Logs
-logs/
-*.log
-npm-debug.log*
-
-# OS & Editor files
-.DS_Store
-Thumbs.db
-.vscode/
->>>>>>> vehicle-recovery
